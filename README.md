@@ -8,4 +8,4 @@ Best Case - O(n)
 Average Case - O(n^2)
 Worst Case - O(n^2)
 
-This is a greaphical representation of how a modified bubble sort algorithm would work.
+This is a visual representation of how a modified bubble sort algorithm would work.
